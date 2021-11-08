@@ -1,0 +1,3 @@
+Writing synchronously
+ Added some lines synchronously!
+ Added some lines synchronously!
